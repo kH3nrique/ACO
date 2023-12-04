@@ -2,8 +2,11 @@
 #define INSTANCIAS_H
 
 #include <iostream>
-
-#define INF 99999
+#include <vector>
+#include <limits>
+#include <cmath>
+#include <algorithm>
+#include <iomanip>
 
 using namespace std;
 
